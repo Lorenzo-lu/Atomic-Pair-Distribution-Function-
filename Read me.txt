@@ -1,0 +1,3 @@
+This code is affiated to my Bachelor's degree defense thesis. In my thesis, I developed am alogorithm to calculate the Pair Distribution Functions from the regular X-ray diffraction device such as XRD. It cannot give a result as good as those in Synchrotron Labs, but still give a rough investigation on the local structures in the samples.
+
+One potential application is we can use this code to find samples with poor quality, so that we won't waste time on them.
